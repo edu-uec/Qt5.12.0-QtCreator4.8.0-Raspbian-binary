@@ -11,7 +11,7 @@ https://drive.google.com/open?id=1uyEYPNcmZPd1ox-wb06nRHEuonPtXhDv
 1. copy a directory to `/usr/local/`
 2. add to PATH
 
-`PATH = /usr/local/Qt{virsion}/bin`
+`PATH=/usr/local/Qt{virsion}/bin:$PATH`
 
 `export PATH`
 
